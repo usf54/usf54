@@ -1,5 +1,5 @@
 Hi there 👋
-I'm a passionate full-stack developer who loves building scalable web applications with modern tools and clean architecture. I specialize in JavaScript, PHP, Node.js, React, and Laravel, and I enjoy working with both SQL and NoSQL databases like MySQL and MongoDB. I also care about UI/UX, often bringing ideas to life with Figma, HTML5, and CSS3.
+I'm a full-stack developer who loves building scalable web applications with modern tools and clean architecture. I specialize in JavaScript, PHP, Node.js, React, and Laravel, and I enjoy working with both SQL and NoSQL databases like MySQL and MongoDB. I also care about UI/UX, often bringing ideas to life with Figma, HTML5, and CSS3.
 
 Whether it's crafting intuitive frontends or designing robust backend systems, I'm always exploring new technologies and pushing my limits. Let’s build something awesome!
 
