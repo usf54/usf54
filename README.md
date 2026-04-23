@@ -2,7 +2,7 @@ Hi there 👋
 Junior Full Stack Developer with a strong interest in Backend technologies and knowledge of Frontend development. I am eager to learn new technologies and able to work effectively in a team to build high-performance, scalable web applications.
 
 # 💻 My Portfolio:
-![](https://my-portfolio-rho-seven-54.vercel.app/)<br/>
+[Visit My Portfolio](https://my-portfolio-rho-seven-54.vercel.app/)
 
 # 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
